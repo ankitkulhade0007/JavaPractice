@@ -18,6 +18,16 @@ public class Employee {
         this.gender = gender;
     }
 
+    public Employee(String name, double salary) {
+        this.name = name;
+        this.salary = salary;
+    }
+
+    public Employee(String name, String department) {
+        this.name = name;
+        this.department = department;
+    }
+
     public String getName() {
         return name;
     }
