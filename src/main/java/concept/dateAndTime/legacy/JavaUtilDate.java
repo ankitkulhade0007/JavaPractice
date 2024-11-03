@@ -1,7 +1,5 @@
 package concept.dateAndTime.legacy;
 
-;
-
 import java.util.Date;
 
 public class JavaUtilDate {

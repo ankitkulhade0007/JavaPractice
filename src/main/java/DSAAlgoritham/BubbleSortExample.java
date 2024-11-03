@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BubbleSortExample {
 
-    private static void bubbleSort() {
+    public  static void main(String[] args) {
         int[] intArray = new int[]{20, 7, -15, 35, 1, -22, 55};
         System.out.printf("unsorted Array %s %n", Arrays.toString(intArray));
         for (int i = 0; i < intArray.length - 1; i++) {

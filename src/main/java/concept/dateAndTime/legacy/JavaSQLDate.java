@@ -1,4 +1,4 @@
-package concept.dateAndTime.legacy;;
+package concept.dateAndTime.legacy;
 
 import java.sql.Date;
 /*
